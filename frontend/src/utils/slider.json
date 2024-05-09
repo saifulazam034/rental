@@ -1,0 +1,18 @@
+[
+  
+  {
+    "name": "asif",
+    "price": "50000",
+    "detail": " hayatabad phase 6 block:A street no:3",
+    "city":"peshawar",
+    "image": "./h1.png"
+  },
+ 
+  {
+    "name": "ali",
+    "price": "30000",
+    "detail": "new city home block:b street:5",
+    "city":"peshawar",
+    "image": "./h3.png"
+  }
+]
